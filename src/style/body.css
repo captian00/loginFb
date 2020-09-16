@@ -1,0 +1,49 @@
+.body {
+  /* margin: 100px 0px 112px; */
+  background-color: #f0f2f5;
+}
+.border {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+.img {
+  margin: -28px;
+  height: 106px;
+}
+.pd-img {
+  padding: 112px 0px 16px;
+}
+.input {
+  border-radius: 6px;
+  font-size: 17px;
+  padding: 0px 15px;
+  width: 100%;
+}
+.inputHeight {
+  height: 45px;
+  margin: 0;
+}
+.GroupInput {
+  border-radius: 6px;
+  text-align: center;
+}
+.login {
+  padding: 0px 5px;
+}
+.line {
+  align-items: center;
+  border-bottom: 1px solid #dadde1;
+  display: flex;
+  margin: 20px 16px;
+  text-align: center;
+}
+li {
+  list-style: none;
+  margin-left: 8px;
+  font-weight: 100;
+  font-family: system-ui;
+}
+.display {
+  display:flex
+}
